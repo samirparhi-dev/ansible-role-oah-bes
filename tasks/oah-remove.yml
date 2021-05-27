@@ -1,0 +1,4 @@
+---
+- debug:
+    msg: "oah-remove of bes.shell"
+#remove bes-shell

@@ -1,0 +1,6 @@
+---
+- debug:
+    msg: "oah-validate of bes.shell"
+# validate if the version of OAH
+
+# display status of oah-shell

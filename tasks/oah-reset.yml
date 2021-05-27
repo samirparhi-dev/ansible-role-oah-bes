@@ -1,0 +1,6 @@
+---
+- debug:
+    msg: "oah-reset of bes.shell"
+#remove bes-shell
+
+#install bes-shell
