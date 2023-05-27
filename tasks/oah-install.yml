@@ -29,3 +29,8 @@
   become: yes
   become_user: root
   shell: '{{ HOME }}/.besman/bin/besman-init.sh'
+- name: Include the bes roles
+  include_role:
+    name: "{{ item }}"
+  with items:
+    -"oah.vscode"

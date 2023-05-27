@@ -1,5 +1,9 @@
 ---
-dependencies: []
+dependencies: 
+  - src: https://github.com/Be-Secure/ansible-role-oah-vscode
+    scm: git
+    name: oah.vscode
+    version: main
 
 galaxy_info:
   author: Vinod Panicker
