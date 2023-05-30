@@ -1,10 +1,4 @@
 ---
-dependencies: 
-  - src: https://github.com/Be-Secure/ansible-role-oah-vscode
-    scm: git
-    name: oah.vscode
-    version: main
-
 galaxy_info:
   author: Vinod Panicker
   description:  "Ansible role to install and update BeSman"
@@ -21,3 +15,8 @@ galaxy_info:
   categories:
     - networking
     - system
+# dependencies: 
+# - src: https://github.com/Be-Secure/ansible-role-oah-vscode
+#   scm: git
+#   name: oah.vscode
+#   version: main
